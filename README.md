@@ -60,6 +60,52 @@ Privacy by Design: Datenschutz durch Technikgestaltung
 Opt-in startt Opt-out: ausdrückliches Zustimmen statt ablehnen müssen
 
 | Anonymisierung  | Psyeudonymisierung  |
-|:---|---|
+|:---|:---|
 |  alle identifizierung Mermale werden aus Daten **entfernt** | identifizierende Mermale werden **durch Pseudonyme ersetzt**  |
 | irreversibel  | reversibel  |
+
+**Datensicherheit:**
+![](./src/sicherheit,safety,security.png)
+|Safety | Security|
+|:---|:---|
+|**Safety** (Betriebsssicherheit): schützt vor unbeabsichtigten, zufälligen Gefahren, die als "Unfall" eintreten können|**Security** (Angriffssicherheit): Schützt vorabsichtlichen, gezielten Bedorhungen druch z.b. kriminelle oder böswilige Handlungen|
+**Schutzziele / Hauptziele / Grundwerte**
+
+Primär Synonyme für die 3 Ziele der Schutzziele:
+- Vertraulichkeit (Confidentiality)
+- Integrität (Integrity)
+- Verfügbarkeit (Availability)
+![](./src/schutzziele,hauptziele,grundwerte.png)
+
+**Relative Sicherheit:**
+"Sicherheit ist stets relativ - absolute Sicherheit gibt es ebenso wengig wie absolute Freiehit oder absolute Unabhängigkeit.
+Unsicherheit hingegen kann sich viel stärker der Absolutheit nähern als Sicherheit."
+
+**Stand der Technik:** - entwickelt sich mit der Fortschritt der Technologie weiter. Einsatz von modernen und effektiven Sicherheitsmaßnahmen nötig. [Kontinuierlicher Verbesserungsprozess]([Kontinuierlicher Verbesserungsprozess](https://de.wikipedia.org/wiki/Kontinuierlicher_Verbesserungsprozess)) (KVP). Plan-Do-Check-Act (PDCA) Zyklus.
+
+
+
+**Qualität (Compliance & Qualität):**
+Sicherheit erfordert [Compliance](https://de.wikipedia.org/wiki/Compliance_(Recht)) (einhalten von Regeln) und [Qualität]([Qualität](https://de.wikipedia.org/wiki/Qualit%C3%A4tsmanagement#Regelkreis_des_Qualit%C3%A4tsmanagements))
+
+![](./src/compliance,qualität.png)
+
+**Sicherheitsmanagementsystem (ISMS):**
+fortlaufenden Prozess innerhalb einer Unternehmung oder Organisation zur Gewährleistung der IT-Sicherheit
+für [KRITIS](https://de.wikipedia.org/wiki/Kritische_Infrastruktur#Situation_in_Deutschland) verpflichtend
+
+**ISO 27001:** (Internationale Norm) spezifiziert die Anforderungen für Einrichtungenm Usetzung, Aufrechthaltung und fortlaufende Verbesserung eines dokumentierten Informationssicherheits-Managementsystems
+
+**IT-Grundschutz-Methodik:** vereinfachtes Vorgehen mittels Vorgehensweisen der IT-Grundschutz-Methodik
+
+**Gefährdungen:**
+- Malware
+- Ransomware
+- Würmer
+- Trojaner
+- Phising
+- Spear-Phising
+- DoS
+- DDoS
+
+**TOM (Technische Organisatorische Maßnahmen - verstehen):**
