@@ -109,3 +109,7 @@ für [KRITIS](https://de.wikipedia.org/wiki/Kritische_Infrastruktur#Situation_in
 - DDoS
 
 **TOM (Technische Organisatorische Maßnahmen - verstehen):**
+
+
+
+# Wechsel zu Word file lokal
